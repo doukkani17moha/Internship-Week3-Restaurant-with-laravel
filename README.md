@@ -68,7 +68,7 @@ Before you begin, make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/doukkani17moha/Internship-Week3-Restaurant-with-laravel.git
+   git clone https://github.com/yourusername/project-name.git
    cd project-name
 
 2. Install Composer dependencies:
