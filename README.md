@@ -123,17 +123,17 @@ Happy coding!
 <h4 align="center" > <ins>Home Page</ins></h4>
 <p align="center"><img src="READMEIMG/home.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
-<h4 align="center" > <ins>About</ins></h4>
+<h4 align="center" > <ins>About Page</ins></h4>
 <p align="center"><img src="READMEIMG/about.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
-<h4 align="center" > <ins>Menu</ins></h4>
+<h4 align="center" > <ins>Menu Page</ins></h4>
 <p align="center"><img src="READMEIMG/menu.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
-<h4 align="center" > <ins>Chefs</ins></h4>
-<p align="center"><img src="READMEIMG/chefs.PNG" alt="logo" width="90%" /></p>
-<p align="center">-------------------------------</p>
-<h4 align="center" > <ins>Contact us and Reservation</ins></h4>
+<h4 align="center" > <ins>Contact Page</ins></h4>
 <p align="center"><img src="READMEIMG/contact.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Reservation Page</ins></h4>
+<p align="center"><img src="READMEIMG/reservation.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Login Page</ins></h4>
 <p align="center"><img src="READMEIMG/login.PNG" alt="logo" width="90%" /></p>
@@ -151,7 +151,7 @@ Happy coding!
 <p align="center"><img src="READMEIMG/allchefs.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Reservation Page</ins></h4>
-<p align="center"><img src="READMEIMG/reservation.PNG" alt="logo" width="90%" /></p>
+<p align="center"><img src="READMEIMG/allreservation.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Admin Page</ins></h4>
 <p align="center"><img src="READMEIMG/admin.PNG" alt="logo" width="90%" /></p>
@@ -159,8 +159,11 @@ Happy coding!
 <h4 align="center" > <ins>Categories Page</ins></h4>
 <p align="center"><img src="READMEIMG/categories.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
-<h4 align="center" > <ins>Session Page</ins></h4>
-<p align="center"><img src="READMEIMG/sessions.PNG" alt="logo" width="90%" /></p>
+<h4 align="center" > <ins>Sessions Page</ins></h4>
+<p align="center"><img src="READMEIMG/session.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>QrCode Page</ins></h4>
+<p align="center"><img src="READMEIMG/qrcode.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Profile Info Page</ins></h4>
 <p align="center"><img src="READMEIMG/profile.PNG" alt="logo" width="90%" /></p>
